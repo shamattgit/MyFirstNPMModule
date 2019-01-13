@@ -1,6 +1,6 @@
-const Add2Num = function(a, b) 
+const addNum = function(a, b) 
 { 
     return (a+b) 
 };
 
-module.exports.add = Add2Num;
+module.exports.add = addNum;
